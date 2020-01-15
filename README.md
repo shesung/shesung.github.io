@@ -1,3 +1,3 @@
 # shesung.github.io
 
-Please go to https://shesung.github.io
+https://shesung.github.io
